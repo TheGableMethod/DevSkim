@@ -22,7 +22,7 @@
     "commander": "^2.20.0",
     "git-repo-info": "^2.1.0",
     "glob-promise": "^3.4.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "node-dir": ">=0.1.17",
     "vscode-languageserver": "^5.2.1",
     "vscode-languageserver-protocol": "^3.14.1",
