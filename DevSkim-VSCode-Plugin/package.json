@@ -222,7 +222,7 @@
     "reinstall-server": "npm uninstall -g devskim-language-server && yarn build && npm i -g ./server"
   },
   "dependencies": {
-    "recursive-readdir": "^2.2.2"
+    "recursive-readdir": "^2.2.3"
   },
   "devDependencies": {
     "@types/jest": "^24.0.16",
